@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.9">
+	<Catalog uuid="d0af7028-c041-49c5-9f4c-f0cdc4563822">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ПрикрепленныеФайлы" category="Object">
+				<xr:TypeId>e652ad0f-b3bc-4e54-b230-5014cda6da0f</xr:TypeId>
+				<xr:ValueId>ffc6e14a-f12a-453d-a8be-c9d3f73fb090</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ПрикрепленныеФайлы" category="Ref">
+				<xr:TypeId>ab26dc7b-027f-461c-97b3-c21fdebf7a32</xr:TypeId>
+				<xr:ValueId>f09531d6-3c11-4651-b91c-8b480429648b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ПрикрепленныеФайлы" category="Selection">
+				<xr:TypeId>3da6d852-c398-44d3-a03b-1a6323a94636</xr:TypeId>
+				<xr:ValueId>5f8e68c4-d431-4d82-937a-41aa4edd2814</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ПрикрепленныеФайлы" category="List">
+				<xr:TypeId>3201007f-8cff-45be-882d-e8ce80e0d88a</xr:TypeId>
+				<xr:ValueId>6f6ffd8d-1cfa-4313-af6d-8bd7d8d7967b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ПрикрепленныеФайлы" category="Manager">
+				<xr:TypeId>85504e67-b290-42cd-a036-6e1055762e88</xr:TypeId>
+				<xr:ValueId>95881052-88a7-4aa2-b3c1-a202f710ce5b</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ПрикрепленныеФайлы</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+		</Properties>
+		<ChildObjects>
+			<Attribute uuid="6aacfce2-094f-4741-8606-12505534bdab">
+				<InternalInfo/>
+				<Properties>
+					<Name>ДанныеФайла</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Type>
+						<v8:Type>v8:ValueStorage</v8:Type>
+					</Type>
+				</Properties>
+			</Attribute>
+			<Attribute uuid="4a2a1300-b220-4686-8600-29e54e3725cd">
+				<InternalInfo/>
+				<Properties>
+					<Name>ДатаСоздания</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Type>
+						<v8:Type>xs:dateTime</v8:Type>
+						<v8:DateQualifiers>
+							<v8:DateFractions>DateTime</v8:DateFractions>
+						</v8:DateQualifiers>
+					</Type>
+				</Properties>
+			</Attribute>
+			<Attribute uuid="56626a3b-5937-422e-b497-ac1298ca8195">
+				<InternalInfo/>
+				<Properties>
+					<Name>РазмерФайла</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Type>
+						<v8:Type>xs:decimal</v8:Type>
+						<v8:NumberQualifiers>
+							<v8:Digits>20</v8:Digits>
+							<v8:FractionDigits>0</v8:FractionDigits>
+							<v8:AllowedSign>Nonnegative</v8:AllowedSign>
+						</v8:NumberQualifiers>
+					</Type>
+				</Properties>
+			</Attribute>
+			<Attribute uuid="a80fe2b4-3e25-401f-91e6-54c5a3bc4a90">
+				<InternalInfo/>
+				<Properties>
+					<Name>Комментарий</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Type>
+						<v8:Type>xs:string</v8:Type>
+						<v8:StringQualifiers>
+							<v8:Length>0</v8:Length>
+							<v8:AllowedLength>Variable</v8:AllowedLength>
+						</v8:StringQualifiers>
+					</Type>
+				</Properties>
+			</Attribute>
+			<Attribute uuid="64f0a3be-7926-410c-9c53-b1569eb2e378">
+				<InternalInfo/>
+				<Properties>
+					<Name>СпособОткрытияФайла</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Type>
+						<v8:Type>cfg:EnumRef.СпособОткрытияПрикрепленногоФайла</v8:Type>
+					</Type>
+				</Properties>
+			</Attribute>
+			<Attribute uuid="1e42232e-b89a-41db-85b6-555d50ac11d6">
+				<InternalInfo/>
+				<Properties>
+					<Name>РасширениеФайла</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Type>
+						<v8:Type>xs:string</v8:Type>
+						<v8:StringQualifiers>
+							<v8:Length>200</v8:Length>
+							<v8:AllowedLength>Variable</v8:AllowedLength>
+						</v8:StringQualifiers>
+					</Type>
+				</Properties>
+			</Attribute>
+			<Attribute uuid="63855723-42b5-4a01-91fe-73a897a428d9">
+				<InternalInfo/>
+				<Properties>
+					<Name>ИсходноеИмяФайла</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Type>
+						<v8:Type>xs:string</v8:Type>
+						<v8:StringQualifiers>
+							<v8:Length>0</v8:Length>
+							<v8:AllowedLength>Variable</v8:AllowedLength>
+						</v8:StringQualifiers>
+					</Type>
+				</Properties>
+			</Attribute>
+		</ChildObjects>
+	</Catalog>
+</MetaDataObject>

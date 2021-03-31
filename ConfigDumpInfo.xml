@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.9">
+	<ConfigVersions>
+		<Metadata name="Catalog.ДополнительныеЗначенияВидовАналитик" id="8cd75f89-6ad2-4119-a172-4c3690597a8c" configVersion="ec08f0efb1898f57393cd60321a0cfc0caa98ff6"/>
+		<Metadata name="Catalog.ДополнительныеЗначенияВидовАналитик.ManagerModule" id="8cd75f89-6ad2-4119-a172-4c3690597a8c.3" configVersion="5dda91451ef58771f8d03e4121b9fff131f47b09"/>
+		<Metadata name="Catalog.Контакты" id="171a725f-536b-4233-89cb-322e6ff0bb2f" configVersion="38094b296dd3ad8473ba58459337023f2236efff">
+			<Metadata name="Catalog.Контакты.Attribute.Адрес" id="010b6352-8002-444a-8235-9e6a94b7f583"/>
+		</Metadata>
+		<Metadata name="Catalog.Контакты.ManagerModule" id="171a725f-536b-4233-89cb-322e6ff0bb2f.3" configVersion="2965bfe3137fb32fbf8937357859fd33a2ff82d2"/>
+		<Metadata name="Catalog.КошелькиИСчета" id="8801f019-d92e-4a50-bc4a-bab1ef811c43" configVersion="8d039cfe0997cbd9940d58a379c7aca7ef1b9d7e"/>
+		<Metadata name="Catalog.ПрикрепленныеФайлы" id="d0af7028-c041-49c5-9f4c-f0cdc4563822" configVersion="8ff55724ab3a456d74d615c9ee57da31bd1a11af">
+			<Metadata name="Catalog.ПрикрепленныеФайлы.Attribute.РасширениеФайла" id="1e42232e-b89a-41db-85b6-555d50ac11d6"/>
+			<Metadata name="Catalog.ПрикрепленныеФайлы.Attribute.ДатаСоздания" id="4a2a1300-b220-4686-8600-29e54e3725cd"/>
+			<Metadata name="Catalog.ПрикрепленныеФайлы.Attribute.РазмерФайла" id="56626a3b-5937-422e-b497-ac1298ca8195"/>
+			<Metadata name="Catalog.ПрикрепленныеФайлы.Attribute.ИсходноеИмяФайла" id="63855723-42b5-4a01-91fe-73a897a428d9"/>
+			<Metadata name="Catalog.ПрикрепленныеФайлы.Attribute.СпособОткрытияФайла" id="64f0a3be-7926-410c-9c53-b1569eb2e378"/>
+			<Metadata name="Catalog.ПрикрепленныеФайлы.Attribute.ДанныеФайла" id="6aacfce2-094f-4741-8606-12505534bdab"/>
+			<Metadata name="Catalog.ПрикрепленныеФайлы.Attribute.Комментарий" id="a80fe2b4-3e25-401f-91e6-54c5a3bc4a90"/>
+		</Metadata>
+		<Metadata name="Catalog.ПрикрепленныеФайлы.ManagerModule" id="d0af7028-c041-49c5-9f4c-f0cdc4563822.3" configVersion="9631ce84c6f72d0cf24126b052a4749f309bfdbc"/>
+		<Metadata name="Catalog.СтатьиРасходов" id="474b9b46-55b1-4ae2-87d3-5b023b320a8a" configVersion="7e7e75dfa737d4a40859d4e9453fc6313d4d03cc"/>
+		<Metadata name="Catalog.СтатьиРасходов.ManagerModule" id="474b9b46-55b1-4ae2-87d3-5b023b320a8a.3" configVersion="16c6b3abb060fda43dd34d894f652785ec26df00"/>
+		<Metadata name="Configuration.Чеки" id="1945086c-61db-4513-943d-efaa4c4c9b15" configVersion="6855aad80c336d838057cca1a0af3e76f74d2d33"/>
+		<Metadata name="Configuration.Чеки.MainSectionCommandInterface" id="11a9bf72-7122-4d8b-91e5-b96abf5dbbb3.9" configVersion="147bf4f490f5f32e179e22f26903cb38f22efed4"/>
+		<Metadata name="DataProcessor.Чеки_ОбработкаЧеков" id="931a475b-30a9-4ee8-8a50-67ad38740492" configVersion="bac717475a930cda83b5374a3d98bdcaa580cf70">
+			<Metadata name="DataProcessor.Чеки_ОбработкаЧеков.Attribute.ПутьПапкиОбработки" id="40864e27-489d-4993-98b4-9e22ae68db37"/>
+			<Metadata name="DataProcessor.Чеки_ОбработкаЧеков.Attribute.Кошелек" id="7170db4d-0c4f-4960-80d0-7b735850cce8"/>
+		</Metadata>
+		<Metadata name="DataProcessor.Чеки_ОбработкаЧеков.Form.Форма" id="c61af945-ab08-48a0-94e0-c9a750cc7dea" configVersion="d469319b43b41d459dafb1d3aaf0874f3562b8b9"/>
+		<Metadata name="DataProcessor.Чеки_ОбработкаЧеков.Form.Форма.Form" id="c61af945-ab08-48a0-94e0-c9a750cc7dea.0" configVersion="9ee13c04b61a30251156d16366d2dd199c8f3352"/>
+		<Metadata name="Document.Расход" id="bd7bf050-53a3-4a3a-8626-c95561b91fd3" configVersion="c4d83f68be515e4aff25b9ca940a3747694d305f"/>
+		<Metadata name="Document.Расход.ObjectModule" id="bd7bf050-53a3-4a3a-8626-c95561b91fd3.0" configVersion="758ae037b0f7863dbe9ce8fef91494cf96e70aa1"/>
+		<Metadata name="Enum.СпособОткрытияПрикрепленногоФайла" id="ba44b324-b1d2-4e7a-9a68-0232b06faa78" configVersion="1e35a0eff6cd3fa405f12e8c0fc022cf52e9f6c1"/>
+		<Metadata name="InformationRegister.Чеки_СоответствиеТоваровИСтатей" id="181e7c39-04c8-4b8e-b61d-fe12e879bf2f" configVersion="1a80293f7680865832b8b3dad6c0dbe75d4827c0">
+			<Metadata name="InformationRegister.Чеки_СоответствиеТоваровИСтатей.Resource.Статья" id="2987b84d-1d70-4603-9b1f-9529eddf6cd8"/>
+			<Metadata name="InformationRegister.Чеки_СоответствиеТоваровИСтатей.Dimension.Товар" id="4e9f5283-4e21-4375-8224-c2b5163d92bb"/>
+		</Metadata>
+		<Metadata name="InformationRegister.Чеки_СоответствиеТоваровИСтатей.ManagerModule" id="181e7c39-04c8-4b8e-b61d-fe12e879bf2f.2" configVersion="6f62034cb238b085ca45c3ff98fa50c9aa74d7ee"/>
+		<Metadata name="Language.Русский" id="e4bb036b-0f2d-45a6-903b-b4caf08d16d5" configVersion="f1f1678fa06f832d6a4b414631ea298aa939e850"/>
+		<Metadata name="Subsystem.Сервис" id="1d649244-4911-4426-9e60-746d90b884fc" configVersion="15e349a7b59a060878c73748d009a8b2906b298b"/>
+		<Metadata name="Subsystem.Сервис.CommandInterface" id="1d649244-4911-4426-9e60-746d90b884fc.1" configVersion="fdaec039eea90396e8275a4185f01ff2ce9f09af"/>
+		<Metadata name="Subsystem.Чеки" id="1697589a-2f13-4973-8a0b-0a86b0dca397" configVersion="b22c6f1adea4835eac1664d14751bca0e0fbbd84"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

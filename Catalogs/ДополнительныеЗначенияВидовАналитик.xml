@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.9">
+	<Catalog uuid="8cd75f89-6ad2-4119-a172-4c3690597a8c">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ДополнительныеЗначенияВидовАналитик" category="Object">
+				<xr:TypeId>869aae91-78dc-4f91-8d49-ad0089bdb3d1</xr:TypeId>
+				<xr:ValueId>a28c2a41-432d-4434-b61b-25418b57f391</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ДополнительныеЗначенияВидовАналитик" category="Ref">
+				<xr:TypeId>9ce747c3-60c1-4e8f-ad92-e360b47bb66d</xr:TypeId>
+				<xr:ValueId>9ca74ba8-fe75-4766-8786-872e6cd12c56</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ДополнительныеЗначенияВидовАналитик" category="Selection">
+				<xr:TypeId>7496f1f6-0a6a-4e60-af99-5ec02527cc99</xr:TypeId>
+				<xr:ValueId>d642b78f-bf9f-4fba-b38c-0928a97a892f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ДополнительныеЗначенияВидовАналитик" category="List">
+				<xr:TypeId>417e67d6-b818-46dd-a9bf-6d6d860a3543</xr:TypeId>
+				<xr:ValueId>996fde08-9f34-411c-bd11-88afc5775bf3</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ДополнительныеЗначенияВидовАналитик" category="Manager">
+				<xr:TypeId>30454507-2885-4f6b-92d6-75c45c762341</xr:TypeId>
+				<xr:ValueId>3c574968-b7ef-431e-b0a0-41c47517cec3</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ДополнительныеЗначенияВидовАналитик</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>
